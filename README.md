@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/wainini/cody.gif)
+![]([https://github.com/wainini/cody.gif](https://github.com/wainini/wainini/blob/main/cody.gif))
 
 <!--
 **wainini/wainini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
