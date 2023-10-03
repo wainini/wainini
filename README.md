@@ -5,7 +5,7 @@ Nice to meet you! I'm currently a student at Bina Nusantara University, majoring
 I've worked on numerous game projects on Unity. Most of the projects I'm in are small in size (game jams), but some are bigger projects. 
 Which you can find on [my itch.io](https://wainini.itch.io)
 
-Here are highlights from some of the games I made:
+## Here are highlights from some of the games I made:
 
 
 ## [Immunopedia 🦠](https://bgdc.itch.io/immunopedia)
