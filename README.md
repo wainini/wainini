@@ -7,7 +7,7 @@ Nice to meet you! I'm currently a student at Bina Nusantara University, majoring
 # Here are highlights from some of the games I made:
 
 ### [Immunopedia 🦠](https://bgdc.itch.io/immunopedia)
-|[![Immunopedia](https://github.com/wainini/wainini/blob/main/img/Immunopedia%20low%20res.gif)](https://bgdc.itch.io/immunopedia)|
+|[![Immunopedia](https://github.com/wainini/wainini/blob/main/img/immunopedia%20400x225.gif)](https://bgdc.itch.io/immunopedia)|
 |----------------|
 |A tower-defense game themed around human immune system. This game was made for PkM (Pengabdian Kepada Masyarakat) BGDC 2022 with other BGDC members. Immunopedia is a game where you need to know and understand what each unit can do, be it ally or enemy.|
 |[Itch Page](https://bgdc.itch.io/immunopedia)|
