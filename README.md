@@ -9,7 +9,7 @@ Which you can find on [my itch.io](https://wainini.itch.io)
 
 
 ## [Immunopedia 🦠](https://bgdc.itch.io/immunopedia)
-![](https://github.com/wainini/wainini/blob/main/Immunopedia%20low%20res.gif)
+|[![Immunopedia](https://github.com/wainini/wainini/blob/main/img/Immunopedia%20low%20res.gif)](https://github.com/wainini/wainini/blob/main/img/Immunopedia%20low%20res.gif)|
 
 A tower-defense game themed around human immune system. This game was made for PkM (Pengabdian Kepada Masyarakat) BGDC 2022 with other BGDC members. Immunopedia is a game where you need to know and understand what each unit can do, be it ally or enemy.
 
