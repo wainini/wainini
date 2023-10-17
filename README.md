@@ -32,7 +32,7 @@ Nice to meet you! I'm currently a student at Bina Nusantara University, majoring
   </tbody>
 </table>
 
-<br><br>
+<br>
 
 <table width="100%">
   <thead>
