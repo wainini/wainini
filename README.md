@@ -5,24 +5,58 @@ Nice to meet you! I'm currently a student at Bina Nusantara University, majoring
 *All the GIFs are linked to their respective itch.io page*
 
 # Here are highlights from some of the games I made:
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%"><a href="https://bgdc.itch.io/immunopedia">Immunopedia 🦠</a></th>
+      <th width="50%"><a href="https://bgdc.itch.io/work-less-play-more">Work Less Play More 🎮</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/wainini/wainini/blob/main/img/immunopedia%20400x225.gif"/></td>
+      <td><img src="https://github.com/wainini/wainini/blob/main/img/worklessplaymore%20400x225.gif"/></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: text-top;">A tower-defense game themed around human immune system. This game was made for PkM (Pengabdian Kepada Masyarakat) BGDC 2022 with other BGDC members. Immunopedia is a game where you need to know and understand what each unit can do, be it ally or enemy.</td>
+      <td>This game the first game that I got fully made and released. Work Less Play More is a 2D beat-em-up game with a unique mechanic where you need to avoid your boss attention. The game was made for Brackeys Game Jam 2022.1 with the theme "This is not real".<br></td>
+    </tr>
+    <tr>
+      <td><a href="https://bgdc.itch.io/immunopedia">Itch Page</td>
+      <td><a href="https://bgdc.itch.io/work-less-play-more">Itch Page</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://itch.io/jam/brackeys-7/rate/1408323">Jam Page</td>
+    </tr>
+  </tbody>
+</table>
 
-| [Immunopedia 🦠](https://bgdc.itch.io/immunopedia)|[Work Less Play More 🎮](https://bgdc.itch.io/work-less-play-more)|
-|---|---|
-|<p align="center"><a href="https://bgdc.itch.io/immunopedia" target="_blank"><img src="https://github.com/wainini/wainini/blob/main/img/immunopedia%20400x225.gif" alt="Sublime's custom image"/></a></p>|[![Work Less Play More](https://github.com/wainini/wainini/blob/main/img/worklessplaymore%20400x225.gif)](https://bgdc.itch.io/work-less-play-more)|
-|A tower-defense game themed around human immune system. This game was made for PkM (Pengabdian Kepada Masyarakat) BGDC 2022 with other BGDC members. Immunopedia is a game where you need to know and understand what each unit can do, be it ally or enemy.|This game the first game that I got fully made and released. Work Less Play More is a 2D beat-em-up game with a unique mechanic where you need to avoid your boss attention. The game was made for Brackeys Game Jam 2022.1 with the theme "This is not real".|
-|[Itch Page](https://bgdc.itch.io/immunopedia)|[Itch Page](https://bgdc.itch.io/work-less-play-more)|
-||[Jam Page](https://itch.io/jam/brackeys-7/rate/1408323)|
+<br><br>
 
-### [Keep Yourself Alive 💀](https://bgdc.itch.io/keep-yourself-alive)
-|[![Keep Yourself Alive](https://github.com/wainini/wainini/blob/main/img/keep%20yourself%20alive%20400x225.gif)](https://bgdc.itch.io/keep-yourself-alive)|
-|---|
-This one was made for Ludum Dare 50 which theme was "Delay the inevitable". <br> It's a simple top-down survival game. The caveat is that your HP is always decreasing, <br> making you always on the run for the randomly spawned heals.
-|[Itch Page](https://bgdc.itch.io/keep-yourself-alive)|
-|[Jam Page](https://ldjam.com/events/ludum-dare/50/keep-yourself-alive)|
-
-### [Interstellar Janitor 🧹](https://bgdc.itch.io/interstellar-janitor)
-|[![Interstellar Janitor](https://github.com/wainini/wainini/blob/main/img/interstellar%20janitor%20%20400x225.gif)](https://bgdc.itch.io/interstellar-janitor)|
-|---|
-|Interstellar Janitor is my try at making tile-based movement <br> and some dialogue system. The game itself was made for Brackeys Game Jam 2022.2 <br> and was themed around the Jam theme "You're not alone". <br> It's a logic puzzle game where you need to read clues scattered around <br> the spaceship to deduce some objects that might just be an alien in disguise.|
-|[Itch Page](https://bgdc.itch.io/interstellar-janitor)|
-|[Jam Page](https://itch.io/jam/brackeys-8/rate/1679306)|
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%"><a href="https://bgdc.itch.io/keep-yourself-alive">Keep Yourself Alive 💀</a></th>
+      <th width="50%"><a href="https://bgdc.itch.io/interstellar-janitor">Interstellar Janitor 🧹</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/wainini/wainini/blob/main/img/keep%20yourself%20alive%20400x225.gif"/></td>
+      <td><img src="https://github.com/wainini/wainini/blob/main/img/interstellar%20janitor%20%20400x225.gif"/></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: text-top;">This one was made for Ludum Dare 50 which theme was "Delay the inevitable". It's a simple top-down survival game. The caveat is that your HP is always decreasing, making you always on the run for the randomly spawned heals.</td>
+      <td>Interstellar Janitor is my try at making tile-based movement and some dialogue system. The game itself was made for Brackeys Game Jam 2022.2 and was themed around the Jam theme "You're not alone". It's a logic puzzle game where you need to read clues scattered around the spaceship to deduce some objects that might just be an alien in disguise.<br></td>
+    </tr>
+    <tr>
+      <td><a href="https://bgdc.itch.io/keep-yourself-alive">Itch Page</td>
+      <td><a href="https://bgdc.itch.io/interstellar-janitor">Itch Page</td>
+    </tr>
+    <tr>
+      <td><a href="https://ldjam.com/events/ludum-dare/50/keep-yourself-alive">Jam Page</td>
+      <td><a href="https://itch.io/jam/brackeys-8/rate/1679306">Jam Page</td>
+    </tr>
+  </tbody>
+</table>
