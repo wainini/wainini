@@ -1,7 +1,7 @@
 # Hi, I'm Derian Ardenichson 👋
 ---
 Nice to meet you! I'm currently a student at Bina Nusantara University, majoring in Game Application and Technology 🎮 </br>
-You check and download games I've developed at [my itch page](https://wainini.itch.io)
+You can check and download games I've developed at [my itch page](https://wainini.itch.io)
 
 *All the GIFs are linked to their respective itch.io page*
 
